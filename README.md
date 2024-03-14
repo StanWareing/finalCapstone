@@ -2,27 +2,26 @@
 
 sentiment_analysis.py
 
-A clear, short, and to the point description of your project. Describe
-the importance of your project, and what it does.
-
 Sentiment analysis
 Sentiment analysis allows us to detect the emotion behind a piece of text using Natural Language Processing
 
 In this project we implement a sentiment analysis model using spaCy
 
-This involves
-preprocessing the text data:
-removing stopwords, and performing any necessary text cleaning to prepare the reviews for analysis
+This involves preprocessing the text data, removing stopwords, and performing any necessary text cleaning to prepare the reviews for analysis
  
+Download a dataset of product reviews: Consumer Reviews of AmazonProducts. You can save it as a CSV file, naming it:
+amazon_product_reviews.csv.  Ensure it is held in the same folder as the code
 
-○ An installation section that tells other users how to install your project
-locally.
+Screenshots of your project in action.
 
-Download a dataset of product reviews: Consumer Reviews of Amazon
-Products. You can save it as a CSV file, naming it:
-amazon_product_reviews.csv.
+![image](https://github.com/![image](https://github.com/StanWareing/finalCapstone/assets/36082046/4aab8a2f-11c2-44cf-b883-6fea5a018e42)]
+
+![StanWareing/finalCapstone/assets/36082046/8172d4af-25f2-436c-b173-74bb1354514b)]
+![image[Doc2.docx](https://github.com/StanWareing/finalCapstone/files/14603769/Doc2.docx)
+](https://github.com/StanWareing/finalCapstone/assets/36082046/54b1be13-a113-49dc-b71f-e85f249c29bd)
+![image](https://github.com/StanWareing/finalCapstone/assets/36082046/ebd95998-088f-47bb-ab51-673d413fc0fd)
 
 
 
-○ A usage section that instructs others on how to use your project after
-they’ve installed it. Include screenshots of your project in action.
+
+ 
