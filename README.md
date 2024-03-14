@@ -18,6 +18,8 @@ Screenshots of the project in action.
 ![StanWareing/finalCapstone/assets/36082046/8172d4af-25f2-436c-b173-74bb1354514b)]
 ![image[Doc2.docx](https://github.com/StanWareing/finalCapstone/files/14603769/Doc2.docx)
 ](https://github.com/StanWareing/finalCapstone/assets/36082046/54b1be13-a113-49dc-b71f-e85f249c29bd)
+
+
  
 
 
