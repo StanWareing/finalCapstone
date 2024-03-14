@@ -2,7 +2,6 @@
 
 sentiment_analysis.py
 
-Sentiment analysis
 Sentiment analysis allows us to detect the emotion behind a piece of text using Natural Language Processing
 
 In this project we implement a sentiment analysis model using spaCy
@@ -12,9 +11,9 @@ This involves preprocessing the text data, removing stopwords, and performing an
 Download a dataset of product reviews: Consumer Reviews of AmazonProducts. You can save it as a CSV file, naming it:
 amazon_product_reviews.csv.  Ensure it is held in the same folder as the code
 
-Screenshots of your project in action.
+Screenshots of the project in action.
 
-![image](https://github.com/![image](https://github.com/StanWareing/finalCapstone/assets/36082046/4aab8a2f-11c2-44cf-b883-6fea5a018e42)]
+ 
 
 ![StanWareing/finalCapstone/assets/36082046/8172d4af-25f2-436c-b173-74bb1354514b)]
 ![image[Doc2.docx](https://github.com/StanWareing/finalCapstone/files/14603769/Doc2.docx)
